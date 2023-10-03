@@ -8,6 +8,8 @@ Avant de pouvoir exécuter l'application, vous devez installer les dépendances 
 
 pip install -r requirements.txt
 
+## Execution de l'application
+
 Une fois que toutes les dépendances sont installées, vous pouvez exécuter l'application en utilisant la commande suivante :
 
 streamlit run chat_with_documents.py
